@@ -29,7 +29,7 @@ int main(){
     }
 
 
-    
+    printf("\n[Resultant Matrix]\n");
     int product[r1][c2];
     int sum=0;
     for(int i=0; i<r1; i++){
